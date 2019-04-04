@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [CustomShapes.xaml](./CS/WpfApplication293/CustomShapes.xaml) (VB: [CustomShapes.xaml](./VB/WpfApplication293/CustomShapes.xaml))
-* [MainWindow.xaml](./CS/WpfApplication293/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication293/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/WpfApplication293/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication293/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfApplication293/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication293/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to create custom shapes with custom connection points for DiagramDesignerControl
