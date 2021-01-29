@@ -15,5 +15,9 @@
 * <em>Arc</em>. Defines an arc with start and end points<br><br>To specify connection points, use the <em>ShapeTemplate.ConnectionPoints</em> property.<br>To register custom shapes, create a stencil with the <em>DiagramStencil.Create</em> method and pass it to the <em>DiagramToolboxRegistrator.RegisterStencil</em> method.</p>
 
 <br/>
+To create a shape programmatically, get an instance of your custom stencil, call the DiagramStencil.GetShape method to access the ShapeDescription object, and assign it to the DiagramShape.Shape property:
+
+```cs
+new DiagramShape() { Shape = customStencil.GetShape("Shape1")}
 
 
