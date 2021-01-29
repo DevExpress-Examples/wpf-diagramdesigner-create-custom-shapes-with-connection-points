@@ -19,5 +19,5 @@ To create a shape programmatically, get an instance of your custom stencil, call
 
 ```cs
 new DiagramShape() { Shape = customStencil.GetShape("Shape1")}
-
+```
 
