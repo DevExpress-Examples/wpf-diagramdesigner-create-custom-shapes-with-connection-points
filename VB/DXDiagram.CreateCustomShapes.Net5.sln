@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXDiagram.CreateCustomShapes", "DXDiagram.CreateCustomShapes\DXDiagram.CreateCustomShapes.vbproj", "{E843581B-97F4-4C6E-9CAB-4C85BCD66473}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXDiagram.CreateCustomShapes", "DXDiagram.CreateCustomShapes\DXDiagram.CreateCustomShapes.Net5.vbproj", "{E843581B-97F4-4C6E-9CAB-4C85BCD66473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
