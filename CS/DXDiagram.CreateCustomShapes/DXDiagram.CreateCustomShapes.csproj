@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -50,43 +50,46 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v21.1">
+    <Reference Include="DevExpress.Drawing.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Diagram.v21.1.Core">
+    <Reference Include="DevExpress.Data.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Mvvm.v21.1">
+    <Reference Include="DevExpress.Diagram.v22.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.CodeView.v21.1">
+    <Reference Include="DevExpress.Mvvm.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v21.1">
+    <Reference Include="DevExpress.Xpf.CodeView.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Core.v21.1">
+    <Reference Include="DevExpress.Data.Desktop.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Diagram.v21.1">
+    <Reference Include="DevExpress.Xpf.Core.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Docking.v21.1">
+    <Reference Include="DevExpress.Xpf.Diagram.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Ribbon.v21.1">
+    <Reference Include="DevExpress.Xpf.Docking.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Office.v21.1.Core">
+    <Reference Include="DevExpress.Xpf.Ribbon.v22.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v21.1.Core">
+    <Reference Include="DevExpress.Office.v22.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v21.1.Export">
+    <Reference Include="DevExpress.RichEdit.v22.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Printing.v21.1.Core">
+    <Reference Include="DevExpress.RichEdit.v22.2.Export">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v22.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="nunit.framework, Version=2.4.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
