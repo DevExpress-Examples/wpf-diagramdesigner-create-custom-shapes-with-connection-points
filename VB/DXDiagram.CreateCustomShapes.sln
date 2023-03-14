@@ -1,4 +1,4 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -23,7 +23,7 @@ Global
 	EndGlobalSection
 	GlobalSection(SourceCodeControl) = preSolution
 		SccNumberOfProjects = 2
-		SccProjectUniqueName0 = DXDiagram.CreateCustomShapes\\DXDiagram.CreateCustomShapes.csproj
+		SccProjectUniqueName0 = DXDiagram.CreateCustomShapes\\DXDiagram.CreateCustomShapes.vbproj
 		SccProjectName0 = $/2016.1/XPF/DevExpress.Xpf.Diagram/Samples/DXDiagram.CreateCustomShapes/DXDiagram.CreateCustomShapes
 		SccLocalPath0 = DXDiagram.CreateCustomShapes
 		SccLocalPath1 = .
