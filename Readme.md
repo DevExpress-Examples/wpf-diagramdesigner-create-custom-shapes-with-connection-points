@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WPF DiagramDesigner Control - Create Custom Shapes with Connection Points
+# WPF DiagramControl - Create Custom Shapes with Connection Points
 
 This example demonstrates how to define custom shapes for the [Diagram Designer Control](https://docs.devexpress.com/WPF/115125/controls-and-libraries/diagram-control/diagram-designer-control/diagram-designer-control) in the XAML markup.
 
@@ -45,3 +45,4 @@ new DiagramShape() { Shape = customStencil.GetShape("Shape1")}
 * [Create Items with Custom Content in DiagramControl](https://github.com/DevExpress-Examples/how-to-create-items-with-custom-content-in-diagramcontrol-t395119)
 * [Create Custom Diagram Containers and Register Them in the Toolbox and Ribbon Gallery](https://github.com/DevExpress-Examples/how-to-create-custom-diagram-containers-and-register-them-in-the-toolbox-and-ribbon-gallery-t466430)
 * [Create a DiagramShape Descendant with Editable and Serializable Properties](https://github.com/DevExpress-Examples/how-to-create-a-diagramshape-descendant-with-editable-and-serializable-properties-t395040)
+* [DiagramControl for WPF - Change a Shape's Connection Points at Runtime](https://github.com/DevExpress-Examples/wpf-diagram-change-connection-points)
