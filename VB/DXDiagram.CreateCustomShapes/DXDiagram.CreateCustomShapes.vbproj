@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
@@ -7,10 +7,9 @@
     <ProjectGuid>{E843581B-97F4-4C6E-9CAB-4C85BCD66473}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <AssemblyName>DXDiagram.CreateCustomShapes</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
@@ -52,46 +51,46 @@
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Drawing.v22.2">
+    <Reference Include="DevExpress.Drawing.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Data.v22.2">
+    <Reference Include="DevExpress.Data.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Diagram.v22.2.Core">
+    <Reference Include="DevExpress.Diagram.v24.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Mvvm.v22.2">
+    <Reference Include="DevExpress.Mvvm.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.CodeView.v22.2">
+    <Reference Include="DevExpress.Xpf.CodeView.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v22.2">
+    <Reference Include="DevExpress.Data.Desktop.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Core.v22.2">
+    <Reference Include="DevExpress.Xpf.Core.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Diagram.v22.2">
+    <Reference Include="DevExpress.Xpf.Diagram.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Docking.v22.2">
+    <Reference Include="DevExpress.Xpf.Docking.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Xpf.Ribbon.v22.2">
+    <Reference Include="DevExpress.Xpf.Ribbon.v24.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Office.v22.2.Core">
+    <Reference Include="DevExpress.Office.v24.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v22.2.Core">
+    <Reference Include="DevExpress.RichEdit.v24.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v22.2.Export">
+    <Reference Include="DevExpress.RichEdit.v24.2.Export">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Printing.v22.2.Core">
+    <Reference Include="DevExpress.Printing.v24.2.Core">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="nunit.framework, Version=2.4.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
