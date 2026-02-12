@@ -48,7 +48,7 @@ new DiagramShape() { Shape = customStencil.GetShape("Shape1")}
 * [Create a DiagramShape Descendant with Editable and Serializable Properties](https://github.com/DevExpress-Examples/how-to-create-a-diagramshape-descendant-with-editable-and-serializable-properties-t395040)
 * [DiagramControl for WPF - Change a Shape's Connection Points at Runtime](https://github.com/DevExpress-Examples/wpf-diagram-change-connection-points)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagramdesigner-create-custom-shapes-with-connection-points&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagramdesigner-create-custom-shapes-with-connection-points&~~~was_helpful=no)
 
